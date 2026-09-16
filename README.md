@@ -11,7 +11,8 @@ An interactive MicroPython project for the ESP32 that cycles through multiple dy
   - **Pattern 2:** Ping-Pong / Bounce Effect.
   - **Pattern 3:** Alternating LED Pairs.
 - **Software Debouncing:** Edge-detection state machine prevents accidental double-triggers.
-
+## Connections
+![ESP32 4 LED blinking project](tinkercad.png)
 ## Hardware Required
 
 - ESP32 Development Board
