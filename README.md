@@ -12,7 +12,7 @@ An interactive MicroPython project for the ESP32 that cycles through multiple dy
   - **Pattern 3:** Alternating LED Pairs.
 - **Software Debouncing:** Edge-detection state machine prevents accidental double-triggers.
 ## demonstration 
-[Watch the ESP32 LED blinking demo](https://youtu.be/x5k0Y5_Bi6Y)
+[Watch the ESP32 LED blinking demo](https://youtu.be/K7CKV6BczYE)
 ## Connections
 ![ESP32 4 LED blinking project](tinkercad.png)
 ## Hardware Required
